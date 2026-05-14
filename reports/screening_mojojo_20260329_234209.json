@@ -1,0 +1,18 @@
+{
+  "patient": "mojojo",
+  "age_months": "36",
+  "examiner": "mojojo",
+  "date": "2026-03-29 23:35",
+  "final_score": 59.564405043559574,
+  "risk_category": "ELEVATED RISK",
+  "details": {
+    "gaze_risk": 48.576871553027374,
+    "speech_risk": 78.75,
+    "visual_risk": 50.0,
+    "fused_score": 59.564405043559574,
+    "category": "ELEVATED RISK",
+    "gaze_weight": 0.35,
+    "speech_weight": 0.35,
+    "visual_weight": 0.3
+  }
+}
